@@ -122,7 +122,7 @@ Heart-Disease-ANN/
 Clone the repository
 
 ```bash
-git clone https://github.com/YourUsername/Heart-Disease-ANN.git
+git clone https://github.com/TheGhostLoop/Heart-Disease-ANN.git
 ```
 
 Install dependencies
